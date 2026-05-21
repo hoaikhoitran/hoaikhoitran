@@ -114,26 +114,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hoaikhoitran&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hoaikhoitran&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
