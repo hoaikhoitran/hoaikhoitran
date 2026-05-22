@@ -54,34 +54,3 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
-## 🌱 Currently Learning
-
-- Advanced ASP.NET Core
-- System Design
-- Backend performance & scalability
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:khoiblack1110@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hoaikhoitran">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-📧 **Email:** [khoiblack1110@gmail.com](mailto:khoiblack1110@gmail.com)  
-📱 **Phone:** 0385618524  
-
-</div>
