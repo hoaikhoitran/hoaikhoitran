@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Software+Engineering;ASP.NET+Core+%26+.NET+Developer;Backend+Developer;Clean+Architecture+%7C+MVC+%7C+System+Design" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Software+Engineering;.NET+Developer;Clean+Architecture+%7C+MVC+%7C+System+Design" />
 
 </div>
 
