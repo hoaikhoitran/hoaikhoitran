@@ -46,17 +46,6 @@ Render (Backend) • Vercel (Frontend)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hoaikhoitran&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaikhoitran&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced ASP.NET Core
