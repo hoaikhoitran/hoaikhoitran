@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=220&section=header&text=Tran%20Hoai%20Khoi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Developer%20|%20FPT%20University%20HCM&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=220&section=header&text=Tran%20Hoai%20Khoi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Developer%20"/>
 
 </div>
 
