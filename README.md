@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Software+Engineering+Student;ASP.NET+Core+%26+.NET+Developer;Backend+Developer+from+Vietnam;Clean+Architecture+%7C+MVC+%7C+React;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Software+Engineering+Student;ASP.NET+Core+%26+.NET+Developer;Backend+Developer+from+Vietnam;Clean+Architecture+%7C+MVC+%7C+System+Design;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -26,8 +26,11 @@
 
 ## 🛠 Tech Stack
 
-### Languages
-HTML • CSS • JavaScript • TypeScript • C# • Java
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,css" />
+
+</div>
 
 ### Backend
 ASP.NET Core (.NET 8) • REST API • Entity Framework Core • JWT • LINQ
@@ -43,6 +46,17 @@ Render (Backend) • Vercel (Frontend)
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hoaikhoitran&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaikhoitran&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
 ## 🌱 Currently Learning
 
 - Advanced ASP.NET Core
@@ -53,15 +67,23 @@ Render (Backend) • Vercel (Frontend)
 
 ## 🌐 Connect With Me
 
-📧 Email: khoiblack1110@gmail.com  
-🔗 GitHub: https://github.com/hoaikhoitran
-
 <div align="center">
 
-📧 **Email:** [khoiblack1110@gmail.com](mailto:khoiblack1110@gmail.com)
-📱 **Phone:** 0385618524
+<a href="mailto:khoiblack1110@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hoaikhoitran">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
----
+<br>
 
+<div align="center">
+
+📧 **Email:** [khoiblack1110@gmail.com](mailto:khoiblack1110@gmail.com)  
+📱 **Phone:** 0385618524  
+
+</div>
