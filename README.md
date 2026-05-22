@@ -26,18 +26,17 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,css,mssql,postgres,git,github,docker,postman" />
 </div>
 
 <br>
 
-### 🖥️ Backend & Core
+### 🖥️ Backend & Web Tech
 <p align="left">
   <img src="https://img.shields.io/badge/.NET%208-%23512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-%23512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor%20Pages-%23512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=F000B8" />
 </p>
