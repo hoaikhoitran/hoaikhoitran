@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Software+Engineering+Student;ASP.NET+Core+%26+.NET+Developer;Backend+Developer+from+Vietnam;Clean+Architecture+%7C+MVC+%7C+System+Design;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Software+Engineering;ASP.NET+Core+%26+.NET+Developer;Backend+Developer;Clean+Architecture+%7C+MVC+%7C+System+Design" />
 
 </div>
 
@@ -23,11 +23,10 @@
 ⚡ Focused on backend systems, APIs, and software architecture
 
 ---
-
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,css,mssql,postgres,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,css,mysql,postgres,git,github,docker,postman" />
 </div>
 
 <br>
@@ -61,7 +60,6 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
 ---
 ## 🌱 Currently Learning
 
