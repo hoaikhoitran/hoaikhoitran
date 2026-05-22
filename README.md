@@ -15,34 +15,7 @@
 </div>
 
 ---
-# 🚀 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33.3%" align="center">
-      <img src="https://img.shields.io/badge/Education-FPT%20University%20HCM-00C2FF?style=for-the-badge&logo=education&logoColor=white"/>
-      <br><br>
-      🎓 <b>Software Engineering</b>
-      <br>
-      <font color="#888">Student at FPT HCM</font>
-    </td>
-    <td width="33.3%" align="center">
-      <img src="https://img.shields.io/badge/Specialization-.NET%20%26%20ASP.NET-8A2BE2?style=for-the-badge&logo=.net&logoColor=white"/>
-      <br><br>
-      💻 <b>Backend Developer</b>
-      <br>
-      <font color="#888">From Vietnam 🇻🇳</font>
-    </td>
-    <td width="33.3%" align="center">
-      <img src="https://img.shields.io/badge/Focus-System%20Design-FF007F?style=for-the-badge&logo=architecture&logoColor=white"/>
-      <br><br>
-      ⚡ <b>Core Expertise</b>
-      <br>
-      <font color="#888">APIs & Architecture</font>
-    </td>
-  </tr>
-</table>
----
 ## 🛠 Tech Stack
 
 <div align="center">
