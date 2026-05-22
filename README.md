@@ -15,18 +15,38 @@
 </div>
 
 ---
-
 # 🚀 About Me
 
-🎓 Software Engineering Student at FPT University HCM  
-💻 ASP.NET Core & .NET Backend Developer from Vietnam  
-⚡ Focused on backend systems, APIs, and software architecture
-
+<table align="center" width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/Education-FPT%20University%20HCM-00C2FF?style=for-the-badge&logo=education&logoColor=white"/>
+      <br><br>
+      🎓 <b>Software Engineering</b>
+      <br>
+      <font color="#888">Student at FPT HCM</font>
+    </td>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/Specialization-.NET%20%26%20ASP.NET-8A2BE2?style=for-the-badge&logo=.net&logoColor=white"/>
+      <br><br>
+      💻 <b>Backend Developer</b>
+      <br>
+      <font color="#888">From Vietnam 🇻🇳</font>
+    </td>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/Focus-System%20Design-FF007F?style=for-the-badge&logo=architecture&logoColor=white"/>
+      <br><br>
+      ⚡ <b>Core Expertise</b>
+      <br>
+      <font color="#888">APIs & Architecture</font>
+    </td>
+  </tr>
+</table>
 ---
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,css,mysql,postgres,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,css,postgres,git,github,docker,postman" />
 </div>
 
 <br>
@@ -60,6 +80,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
 ---
 ## 🌱 Currently Learning
 
