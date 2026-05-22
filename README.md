@@ -18,127 +18,43 @@
 
 # 🚀 About Me
 
-🎓 Software Engineering Student at **FPT University HCM**
-💻 Specialized in **.NET Development** and Backend Engineering
-⚡ Interested in building modern web applications and scalable backend systems
-
-🌱 Currently learning and improving:
-
-* ASP.NET Core (.NET 8)
-* React.js
-* Clean Architecture
-* System Design
-
-☁️ Experienced in deploying projects on **Render**
+🎓 Software Engineering Student at FPT University HCM  
+💻 ASP.NET Core & .NET Backend Developer from Vietnam  
+⚡ Focused on backend systems, APIs, and software architecture
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+### Languages
+HTML • CSS • JavaScript • TypeScript • C# • Java
 
-## 💻 Programming Languages
+### Backend
+ASP.NET Core (.NET 8) • REST API • Entity Framework Core • JWT • LINQ
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs,java,js,ts" />
+### Architecture & Design
+Clean Architecture • MVC Architecture • 3-Layer Architecture • Razor Pages • Repository Pattern • Dependency Injection • System Design
 
----
+### Database & Tools
+SQL Server • PostgreSQL • Git • GitHub • Docker • Postman • Swagger
 
-## ⚙️ Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=dotnet,react,visualstudio" />
-
-</div>
-
-### 🔹 Backend Development
-
-* ASP.NET Core (.NET 8)
-* RESTful API Development
-* Razor Pages
-* MVC Pattern
-* Entity Framework Core
-* LINQ
-* JWT Authentication & Authorization
-
-### 🔹 Desktop Development
-
-* WPF
-* WinForms
-
-### 🔹 Software Architecture
-
-* Clean Architecture
-* 3-Layer Architecture
-* MVC Architecture
-* Repository Pattern
-* Dependency Injection
+### Deployment
+Render (Backend) • Vercel (Frontend)
 
 ---
 
-# 🗄 Databases
+## 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-</div>
-
-* SQL Server
-* PostgreSQL
-* pgAdmin
-* DBeaver
+- Advanced ASP.NET Core
+- System Design
+- Backend performance & scalability
 
 ---
 
-# 🧰 Tools & Platforms
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-
-</div>
-
-* Swagger / OpenAPI
-* Git & GitHub Workflow
-* Postman API Testing
-* Basic Docker Usage
-* Render Deployment
-
----
-
-# 🌏 Languages
-
-| Language   | Level        |
-| ---------- | ------------ |
-| Vietnamese | Native       |
-| English    | Intermediate |
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hoaikhoitran/hoaikhoitran/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/hoaikhoitran">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:khoiblack1110@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
-
-<br>
+📧 Email: khoiblack1110@gmail.com  
+🔗 GitHub: https://github.com/hoaikhoitran
 
 <div align="center">
 
