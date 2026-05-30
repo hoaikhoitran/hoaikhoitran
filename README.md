@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=220&section=header&text=Tran%20Hoai%20Khoi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20"/>
+<img width="420" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
+
 
 </div>
-
-
-
