@@ -1,9 +1,14 @@
-<div align="center">
+# WELCOME TO MY PAGE 👋👋👋
 
-<img 
-  width="210" 
-  src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaDIyZ2tndDJqYTVhZG5rajQybG12ZjJiZTIwb2tmYXM4cXJjZTY4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif" 
-  alt="Anime coding gif"
-/>
+Hi! My name is **Tran Hoai Khoi**.
 
-</div>
+Welcome to my GitHub profile! 🚀
+
+## 📫 How to reach me
+
+- 💼 **LinkedIn:** [Tran Hoai Khoi](https://www.linkedin.com/in/hoaikhoitran)
+- 🎥 **YouTube:** [@khoiq9](https://www.youtube.com/@khoiq9)
+
+---
+
+Thanks for visiting my profile! 👋
